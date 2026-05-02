@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/flechasIsq.svg" width="120" alt="Profile photo"/>
+  <img src="./img/flechasIsq.svg" width="32" alt="Profile photo"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <h1>printf("Hi, I'm Jhosua")</h1>
@@ -8,7 +8,7 @@
     with some hands-on experience in the IT industry.</p>
   </span>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/flechasDer.svg" width="120" alt="Extra photo"/>
+  <img src="./img/flechasDer.svg" width="32" alt="Extra photo"/>
 </div>
 </h2>
 <h2>
