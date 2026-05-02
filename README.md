@@ -1,18 +1,11 @@
 <div align="center">
-  <img src="./img/flechasIsq.jpg" width="120" alt="Profile photo"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <h1>printf("Hi, I'm Jhosua")</h1>
     <p>I'm a <strong>Computer Engineering</strong> student from Bolivia,<br/>
     passionate about software development and emerging technologies,<br/>
     with some hands-on experience in the IT industry.</p>
   </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/flechasDer.jpg" width="120" alt="Extra photo"/>
 </div>
-<h2>I'm a <strong>Computer Engineering</strong> student from Bolivia,
-passionate about software development and emerging technologies,
-with some hands-on experience in the IT industry.
 </h2>
 <h2>
     <img src="./img/face.svg" width="32" height="32"/>
