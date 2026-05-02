@@ -1,31 +1,7 @@
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left" valign="top" width="55%">
-      <h1>printf("Hi, I'm Jhosua") 👋</h1>
-      <p>
-        I'm a <strong>Computer Engineering</strong> student from Bolivia,
-        passionate about software development and emerging technologies,
-        with some hands-on experience in the IT industry.
-    </td>
-    <td align="right" valign="top" width="45%">
-      <div align="right">
-        <img src="./img/micara2.jpg"
-             width="130"
-             style="border-radius: 12px; position: relative; z-index: 2;"
-             alt="Profile photo"/>
-        <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./img/look1.jpg"
-             width="130"
-             alt="Extra photo"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+<h2>I'm a <strong>Computer Engineering</strong> student from Bolivia,
+passionate about software development and emerging technologies,
+with some hands-on experience in the IT industry.
+</h2>
 <h2>
     <img src="./img/face.svg" width="32" height="32"/>
     A bit about my approach
